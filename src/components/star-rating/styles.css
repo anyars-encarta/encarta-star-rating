@@ -1,0 +1,11 @@
+.star-rating {
+    margin-top: 50px;
+}
+
+.active {
+    color: #e0da25;
+}
+
+.inActive {
+    color: #000000;
+}

@@ -4,7 +4,7 @@ import './App.css';
 const App = () => {
   return (
     <div className="App">
-      <StarRating />
+      <StarRating noOfStars={10}/>
     </div>
   );
 }
