@@ -1,1 +1,0 @@
-# encarta-star-rating
