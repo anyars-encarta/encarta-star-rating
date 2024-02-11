@@ -1,4 +1,4 @@
-import StarRating from './components/star-rating/StarRating';
+import StarRating from './components/star-rating/index';
 import './App.css';
 
 const App = () => {
