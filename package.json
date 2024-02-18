@@ -1,7 +1,7 @@
 {
   "name": "encarta-star-rating",
   "version": "0.1.0",
-  "homepage": "https://anyars-encarta.github.io/encarta-image-slider",
+  "homepage": "https://anyars-encarta.github.io/encarta-star-rating",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
