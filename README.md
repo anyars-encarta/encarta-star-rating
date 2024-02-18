@@ -39,7 +39,7 @@
 <!-- INTRO -->
 # 📖 Encarta Stars Rating<a name="about-project"></a>
 
-> Encarta Stars Rating is an interactive app with a functionality to give stars rating.
+> Encarta Stars Rating is an interactive app with a functionality to give stars rating. The stars are highlighted as the user hovers over them. The highlight stops on a particular star the user clicks on.
 
 ## 🛠 Built With <a name="built-with"></a>
 1. React
@@ -68,7 +68,7 @@
 
 LIVE DEMO
 
-> Live demo comg soon...
+> Visit the [live](https://anyars-encarta.github.io/encarta-star-rating/) page of the project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
